@@ -1,0 +1,5 @@
+{
+  "name": "CLOS vs. Mesh Compare 2",
+  "description": "A visual and analytical comparison tool for Folded Clos vs. Full Mesh network topologies, featuring real-time metric calculation and Gemini-powered analysis.",
+  "requestFramePermissions": []
+}
